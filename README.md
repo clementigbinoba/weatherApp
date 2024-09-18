@@ -148,7 +148,7 @@ npm run dev
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://www.linkedin.com/in/clement-igbinoba-813b8019b/)
+[![linkedin] https://www.linkedin.com/in/clement-igbinoba-813b8019b/)
 
 © 2024 Igbinoba Clement
 
